@@ -16,9 +16,9 @@
 
 ## More features & Demo
 
-- Extension details : https://www.magetop.com/magento-2-progressive-web-application.html
+- Extension Details : https://www.magetop.com/magento-2-progressive-web-application.html
 - Category Demo : https://dream.maiuoc.com/venia-bottoms.html
-- Product demo : https://dream.maiuoc.com/pomona-skirt.html
+- Product Demo : https://dream.maiuoc.com/pomona-skirt.html
 
 ## Support & Contact info
 
