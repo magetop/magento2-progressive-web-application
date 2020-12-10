@@ -16,9 +16,9 @@
 
 ## More features & demo
 
-- Extension Details : https://www.magetop.com/magento-2-progressive-web-application.html
-- Category Demo : https://dream.maiuoc.com/venia-bottoms.html
-- Product Demo : https://dream.maiuoc.com/pomona-skirt.html
+- Extension details : https://www.magetop.com/magento-2-progressive-web-application.html
+- Category demo : https://www.roeckl.com/damen/huete-und-muetzen
+- Product demo : https://www.roeckl.com/bond-street-cayenne-61032-047-280
 
 ## Support & contact info
 
