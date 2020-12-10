@@ -1,4 +1,4 @@
-# Magento 2 Progressive Web Application by MageTop
+# Magento 2 Progressive Web Application by Magetop
 
 **Magento 2 Progressive Web Application (PWA)** by Magetop is a new technology that combines the best of mobile web and the best of mobile apps to create a superior mobile web experience. They are installed on the phone like a normal app (web app) and can be accessed from the home screen.
 
@@ -14,13 +14,13 @@
 - 100% Open-source, Support multi-store, Support multi-language...
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension Details : https://www.magetop.com/magento-2-progressive-web-application.html
 - Category Demo : https://dream.maiuoc.com/venia-bottoms.html
 - Product Demo : https://dream.maiuoc.com/pomona-skirt.html
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
